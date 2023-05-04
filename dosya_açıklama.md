@@ -5,4 +5,4 @@ index.html dosyasında içerisinde bulunduğum html kursunun ilk ödevi yer alma
 + Ad-Soyadın altında alt başlık olarak Hakkımda yazmalıdır.
 + Altına paragraf içerisinde neler yaptığınızı ve nelerden hoşlandığınızı yazabilirsiniz.
 + Web sitenizi kaydederken dosya adı olarak 'index.html' seçmeniz gerekmektedir.
-+ Yazdığınız kodları açıklayan yorum satırları eklemeyi unutmayın.
++ Yazdığınız kodları açıklayan yorum satırları eklemeyi unutmayın. 
